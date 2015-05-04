@@ -6,4 +6,8 @@ Learned this skill is important to a programmer.
 
 This skill is useful to a programmer.
 
-Add one line in robothy's computer!
+<<<<<<< HEAD
+Add a line in robothy's computer!
+=======
+Add a line in robothy's computer!
+>>>>>>> dev
